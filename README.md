@@ -1,6 +1,6 @@
 #ROOT SENHA
 
-source <(curl -sL 'https://www.dropbox.com/scl/fi/yw9ug58cxhulefw1v22sw/alterar.sh?rlkey=hklmtpyw68lb0dff79fopstjx')
+source <(curl -sL 'https://raw.githubusercontent.com/kiritosshxd/socks5/refs/heads/main/root.sh')
 
 #SOCKS5
 
